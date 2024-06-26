@@ -1,11 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager" inherit-compiler-output="true">
-    <exclude-output />
-    <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
-    </content>
-    <orderEntry type="inheritedJdk" />
-    <orderEntry type="sourceFolder" forTests="false" />
-  </component>
-</module>
+==========================================================================================
+Assessment 1 : Day 1 26 June 2024
+==========================================================================================
+Task 1
+
+Given a file having multiple lines of data.
+Reverse each word of data in the file and save in other file. 
+eg. If input.txt file has data : My name is Yogesh.
+	The output.txt file should have : yM eman si hsegoy.
+
+Instructions :
+	1. Plain Java program
+	2. semicolon, full stop, comma, exclamatory mark should be at last. 
+		i.e. Yogesh. -> hsegoY. or Great! -> taerG!
+	3. Maintain case.
+	4. Exception handling expected as needed.
+	5. Testcases, Logging, repo readme file.
+==========================================================================================
