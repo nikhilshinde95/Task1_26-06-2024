@@ -30,12 +30,16 @@ This Java program reads a text file (`input.txt`), reverses each word in the fil
 # Input (`input.txt`):
 
 My name is Yogesh.
+
 This is a test file.
+
 Hello, World! this
 
 #Output (`output.txt`):
 
 yM eman si hsegoY.
+
 sihT si a tset elif.
+
 olleH, dlroW! siht
 
