@@ -35,7 +35,7 @@ This is a test file.
 
 Hello, World! this
 
-#Output (`output.txt`):
+# Output ('output.txt')
 
 yM eman si hsegoY.
 
